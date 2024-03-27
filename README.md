@@ -11,17 +11,7 @@ git clone https://github.com/quercyAP/LinearRegression
 cd LinearRegression
 ```
 
-2. **Set Up a Virtual Environment** (Optional but recommended):
-   
-```
-python -m venv my_env
-```
-
-- Activate the virtual environment:
-  - On Windows: `my_env\Scripts\activate`
-  - On macOS and Linux: `source my_env/bin/activate`
-
-3. **Install Dependencies**:
+2. **Install Dependencies**:
 
 ```
 pip install numpy matplotlib
